@@ -52,3 +52,6 @@ JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
 
 
 
+=======
+# jebscripts
+A set of JEB Python/Java scripts for reverse engineering Android obfuscated code
