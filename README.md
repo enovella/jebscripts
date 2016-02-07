@@ -1,3 +1,6 @@
+# JEB Android decompiler scripts
+A set of JEB Python/Java scripts for reverse engineering Android obfuscated code
+
 ## JEB Python scripts
 - [HelloWorld.py](HelloWorld.py)
     - Display message box.
@@ -52,6 +55,3 @@ JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
 
 
 
-=======
-# jebscripts
-A set of JEB Python/Java scripts for reverse engineering Android obfuscated code
